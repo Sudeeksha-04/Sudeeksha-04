@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">Sudeeksha</h1>
-<h3 align="center">Computer Science Student -  Frontend-Focused Builder -  Problem Solver</h3>
+<h3 align="center">Computer Science Student • Frontend-Focused Builder • Problem Solver</h3>
 
 <p align="center">
   I build clean interfaces, practical projects, and steadily stronger software foundations.
@@ -20,15 +20,15 @@
   <img src="https://img.shields.io/badge/Open%20To-Internships%20%26%20Collaboration-0F766E?style=for-the-badge" alt="Open to work badge" />
 </p>
 
-***
+---
 
 ## Recruiter Intro
 
-I am a Computer Science student who enjoys building polished web interfaces, structured frontend projects, and practical software that solves real problems.
-My work is strongest where clean UI, implementation clarity, and consistency matter.
+I am a Computer Science student who enjoys building polished web interfaces, structured frontend projects, and practical software that solves real problems.  
+My work is strongest where clean UI, implementation clarity, and consistency matter.  
 I am actively improving my public GitHub, project quality, and technical depth so my profile reflects serious growth rather than random uploads.
 
-***
+---
 
 ## Core Strengths
 
@@ -37,7 +37,7 @@ I am actively improving my public GitHub, project quality, and technical depth s
 - Problem solving through coding practice, DSA improvement, and logic building.
 - Willingness to learn fast, revise work, and make projects look production-minded.
 
-***
+---
 
 ## Tech Stack
 
@@ -51,7 +51,7 @@ I am actively improving my public GitHub, project quality, and technical depth s
   <img src="https://img.shields.io/badge/Mindset-Build%20Better%20Every%20Week-111827?style=flat-square&logo=githubactions&logoColor=white" alt="Mindset badge" />
 </p>
 
-***
+---
 
 ## Featured Work
 
@@ -78,7 +78,7 @@ I am actively improving my public GitHub, project quality, and technical depth s
   </tr>
 </table>
 
-***
+---
 
 ## What I Am Building Now
 
@@ -87,7 +87,7 @@ I am actively improving my public GitHub, project quality, and technical depth s
 - More recruiter-ready public work instead of unfinished or generic uploads.
 - A profile that communicates growth, seriousness, and technical direction in seconds.
 
-***
+---
 
 ## GitHub Analytics
 
@@ -104,7 +104,7 @@ I am actively improving my public GitHub, project quality, and technical depth s
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sudeeksha-04&theme=tokyo-night&hide_border=true&area=true" alt="GitHub contribution graph" />
 </p>
 
-***
+---
 
 ## Snapshot
 
@@ -117,7 +117,7 @@ strength: Practical projects + presentation-minded development
 goal: Internships, meaningful projects, continuous growth
 ```
 
-***
+---
 
 ## Connect
 
@@ -125,7 +125,7 @@ goal: Internships, meaningful projects, continuous growth
   <a href="https://github.com/Sudeeksha-04"><img src="https://img.shields.io/badge/GitHub-Visit%20Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub button" /></a>
 </p>
 
-***
+---
 
 ## Profile Power Moves
 
