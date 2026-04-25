@@ -1,103 +1,136 @@
 <div align="center">
-  <img src="./assets/premium-banner.svg" alt="Sudeeksha premium GitHub banner" width="100%" />
+  <img src="./assets/premium-banner-pro.svg" alt="Sudeeksha premium animated GitHub banner" width="100%" />
 </div>
 
-<h1 align="center">Hi, I'm Sudeeksha 👋</h1>
+<h1 align="center">Sudeeksha</h1>
+<h3 align="center">Computer Science Student -  Frontend-Focused Builder -  Problem Solver</h3>
+
 <p align="center">
-  <strong>Computer Science student</strong> building polished web apps, problem-solving projects, and practical software systems.
+  I build clean interfaces, practical projects, and steadily stronger software foundations.
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1200&color=7C3AED&center=true&vCenter=true&width=700&lines=React+%7C+JavaScript+%7C+TypeScript;Python+%7C+DSA+%7C+Problem+Solving;Building+projects+that+look+clean+and+work+well" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=8B5CF6&center=true&vCenter=true&width=900&lines=Building+premium+frontend+projects+with+clean+UI;Working+with+React%2C+JavaScript%2C+TypeScript+and+Python;Focused+on+internships%2C+growth%2C+and+stronger+public+projects" alt="Typing animation" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/Sudeeksha-04?tab=repositories"><img src="https://img.shields.io/badge/Repositories-5-111827?style=for-the-badge&logo=github&logoColor=white" alt="Repositories badge" /></a>
-  <img src="https://img.shields.io/badge/Focus-Frontend%20%2B%20CS%20Core-7C3AED?style=for-the-badge" alt="Focus badge" />
-  <img src="https://img.shields.io/badge/Open%20To-Internships%20%26%20Projects-0F766E?style=for-the-badge" alt="Open to opportunities badge" />
+  <a href="https://github.com/Sudeeksha-04"><img src="https://img.shields.io/badge/Profile-Sudeeksha--04-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="Profile badge" /></a>
+  <img src="https://img.shields.io/badge/Role-CS%20Student-7C3AED?style=for-the-badge" alt="Role badge" />
+  <img src="https://img.shields.io/badge/Focus-React%20%7C%20TypeScript%20%7C%20DSA-0891B2?style=for-the-badge" alt="Focus badge" />
+  <img src="https://img.shields.io/badge/Open%20To-Internships%20%26%20Collaboration-0F766E?style=for-the-badge" alt="Open to work badge" />
 </p>
 
 ***
 
-## About Me
+## Recruiter Intro
 
-- 🎓 Computer Science student with interest in software development, UI-focused web projects, and problem solving.
-- 💻 I enjoy building practical applications with JavaScript, TypeScript, React, and Python.
-- 🚀 I am currently improving project quality, GitHub presentation, and development consistency.
-- 📌 My goal is to create work that feels clean, useful, and recruiter-friendly.
+I am a Computer Science student who enjoys building polished web interfaces, structured frontend projects, and practical software that solves real problems.
+My work is strongest where clean UI, implementation clarity, and consistency matter.
+I am actively improving my public GitHub, project quality, and technical depth so my profile reflects serious growth rather than random uploads.
+
+***
+
+## Core Strengths
+
+- Frontend development with **React**, JavaScript, TypeScript, HTML, and CSS.
+- Project-based learning with a strong focus on presentation, usability, and cleaner structure.
+- Problem solving through coding practice, DSA improvement, and logic building.
+- Willingness to learn fast, revise work, and make projects look production-minded.
 
 ***
 
 ## Tech Stack
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,html,css,python,java,git,github,vscode" alt="Tech stack icons" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,js,ts,html,css,python,java,git,github,vscode" alt="Tech stack icons" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/UI%20Thinking-Clean%20and%20Modern-111827?style=flat-square&logo=storybook&logoColor=white" alt="UI badge" />
+  <img src="https://img.shields.io/badge/Coding-Consistent%20Improvement-111827?style=flat-square&logo=codeforces&logoColor=white" alt="Coding badge" />
+  <img src="https://img.shields.io/badge/Mindset-Build%20Better%20Every%20Week-111827?style=flat-square&logo=githubactions&logoColor=white" alt="Mindset badge" />
 </p>
 
 ***
 
-## Featured Projects
+## Featured Work
 
-### 1) EXAM-SPARK-MAIN
-**TypeScript project** that shows modern frontend structure and stronger code organization.
-
-### 2) Car-Rental-Website
-A **web application project** that reflects UI design thinking and multi-page product presentation.
-
-### 3) To-Do-list
-A practical **JavaScript productivity app** focused on task management, interaction flow, and core CRUD behavior.
-
-### 4) CODSOFT
-A collection of **internship tasks** that demonstrates consistency, learning mindset, and hands-on implementation.
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>EXAM-SPARK-MAIN</h3>
+      <p>Highlights stronger project structure and TypeScript-based development with a more modern engineering direction.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Car-Rental-Website</h3>
+      <p>Shows UI layout work, product presentation, and visual thinking in a complete web experience.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>To-Do-list</h3>
+      <p>A practical JavaScript project that demonstrates interaction logic, task flow, and CRUD-oriented thinking.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>CODSOFT</h3>
+      <p>Represents hands-on internship work, adaptability, and consistent execution across assigned tasks.</p>
+    </td>
+  </tr>
+</table>
 
 ***
 
-## What I’m Working On
+## What I Am Building Now
 
-- Improving the quality and presentation of my public repositories.
-- Building stronger React and TypeScript projects.
-- Practicing DSA, coding logic, and better project structure.
-- Creating a more professional developer portfolio for internships and opportunities.
+- Better React and TypeScript projects with cleaner code and presentation.
+- Stronger GitHub repositories with improved documentation and screenshots.
+- More recruiter-ready public work instead of unfinished or generic uploads.
+- A profile that communicates growth, seriousness, and technical direction in seconds.
 
 ***
 
-## GitHub Highlights
+## GitHub Analytics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Sudeeksha-04&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Sudeeksha-04&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub stats" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sudeeksha-04&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sudeeksha-04&theme=tokyo-night&hide_border=true&area=true" alt="GitHub activity graph" />
+  <img src="https://streak-stats.demolab.com?user=Sudeeksha-04&theme=tokyonight&hide_border=true" alt="GitHub streak stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sudeeksha-04&theme=tokyo-night&hide_border=true&area=true" alt="GitHub contribution graph" />
 </p>
 
 ***
 
-## Recruiter Snapshot
+## Snapshot
 
-```text
-Name        : Sudeeksha
-Role        : Computer Science Student
-Strengths   : Frontend projects, problem solving, clean UI work
-Learning    : React, TypeScript, Python, DSA
-Looking For : Internships, collaborations, growth opportunities
+```yaml
+name: Sudeeksha
+role: Computer Science Student
+focus: Frontend development, cleaner projects, stronger fundamentals
+tech: React, JavaScript, TypeScript, Python, Java
+strength: Practical projects + presentation-minded development
+goal: Internships, meaningful projects, continuous growth
 ```
 
 ***
 
 ## Connect
 
-<p align="left">
-  <a href="https://github.com/Sudeeksha-04"><img src="https://img.shields.io/badge/GitHub-Sudeeksha--04-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
+<p align="center">
+  <a href="https://github.com/Sudeeksha-04"><img src="https://img.shields.io/badge/GitHub-Visit%20Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub button" /></a>
 </p>
 
 ***
 
-## Profile Upgrade Tips
+## Profile Power Moves
 
-- Pin your best 3 repositories first: **EXAM-SPARK-MAIN**, **Car-Rental-Website**, and **To-Do-list**.
-- Add proper screenshots to major repositories.
-- Replace generic repo descriptions with clear outcome-based summaries.
-- Keep committing regularly so your activity graph looks active.
-- Add a LinkedIn link once available for recruiter trust.
+- Pin **EXAM-SPARK-MAIN**, **Car-Rental-Website**, and **To-Do-list** first.
+- Add screenshots and live demo links to your best repositories.
+- Rewrite each repo description in one sharp sentence: problem, stack, result.
+- Keep your profile repository clean and avoid template-like filler.
+- Commit consistently so your graph supports the premium first impression.
